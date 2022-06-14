@@ -1,0 +1,16 @@
+VARIABLES
+una variables es como si hicieramos una cajita y a esa cajita le podemos poner nombre
+no darle nombre despues pero podemos usar lo que contiene poniedolo mas adelante
+
+STRINGS un string es una serie de letras que fomer una plabra o no pero son letras y lo que las caracteriza es
+que estan en medio de unas comillas "" igual se pueden usar con numeros pero funciona diferente 
+
+FUNCIONES las funciones las creamos para que nuetro programa corra algo que le digamos podemos crear
+una funcion que haga que mezcle un nombre con un apellido o este caso una string con una variable 
+
+DECLARACIONES if lo usamo cuando queremos verificar algo por ejmplo cuando algo es falso o verdadero si es 
+vedadero continua y si no solo cambia a falso 
+
+
+VALORES BOOLEANOS
+los valores booleanos no son mas que false o true que significa falso y verdadero o puede ser 0 o 1
